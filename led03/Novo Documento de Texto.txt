@@ -1,0 +1,3 @@
+
+faça um programa em c que leia o estado da porta p1.3 e acenda o led vermelho caso p1.3 seja 1 e apague caso seja 0
+
